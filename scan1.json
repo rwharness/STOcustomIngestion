@@ -1,0 +1,27 @@
+{  
+   "meta":{  
+      "key":[  
+         "issueName",  
+         "fileName"  
+      ],  
+      "author":"Jane Doe"  
+   },  
+   "issues":[  
+      {  
+         "scanTool":"MySastTool",  
+         "issueName":"Cross Site Scripting",  
+         "issueDescription":"Lorem ipsum...",  
+         "fileName":"homepage-jobs.php",  
+         "remediationSteps":"Fix me fast.",  
+         "risk":"high",  
+         "severity":8,  
+         "status":"open",  
+         "referenceIdentifiers":[  
+            {  
+               "type":"cwe",  
+               "id":"79"  
+            }  
+         ]  
+      }  
+   ]  
+}

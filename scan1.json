@@ -22,6 +22,22 @@
                "id":"79"  
             }  
          ]  
-      }  
+      },
+      {  
+         "scanTool":"MySastTool",  
+         "issueName":"Cross Site Scripting2",  
+         "issueDescription":"Lorem ipsum...",  
+         "fileName":"homepage-jobs.php",  
+         "remediationSteps":"Fix me fast.",  
+         "risk":"high",  
+         "severity":8,  
+         "status":"open",  
+         "referenceIdentifiers":[  
+            {  
+               "type":"cwe",  
+               "id":"80"  
+            }  
+         ]  
+      }        
    ]  
 }

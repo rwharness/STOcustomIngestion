@@ -10,28 +10,28 @@
          "issueName":"Issue1",  
          "issueDescription":"Description1",  
          "severity":8,  
-         "status":"open"
+         "scanStatus":"open"
       }, 
       {  
          "scanTool":"Bug Bounty",  
          "issueName":"Issue2",  
          "issueDescription":"Description2",  
          "severity":8,  
-         "status":"open"
+         "scanStatus":"open"
       }, 
       {  
          "scanTool":"Bug Bounty",  
          "issueName":"Issue3",  
          "issueDescription":"Description3",  
          "severity":8,  
-         "status":"open"
+         "scanStatus":"open"
       }, 
       {  
          "scanTool":"Bug Bounty",  
          "issueName":"Issue4",  
          "issueDescription":"Description4",  
          "severity":8,  
-         "status":"open"
+         "scanStatus":"open"
       }
       
    ]  

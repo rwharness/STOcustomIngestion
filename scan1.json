@@ -25,14 +25,6 @@
          "issueDescription":"Description3",  
          "severity":8,  
          "scanStatus":"open"
-      }, 
-      {  
-         "scanTool":"Bug Bounty",  
-         "issueName":"Issue4",  
-         "issueDescription":"Description4",  
-         "severity":8,  
-         "scanStatus":"open"
       }
-      
    ]  
 }

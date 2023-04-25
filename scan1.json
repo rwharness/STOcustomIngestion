@@ -8,7 +8,7 @@
    },  
    "issues":[  
       {  
-         "scanTool":"MySastTool",  
+         "scanTool":"Bug Bounty",  
          "issueName":"Cross Site Scripting",  
          "issueDescription":"Lorem ipsum...",  
          "fileName":"homepage-jobs.php",  
@@ -24,7 +24,7 @@
          ]  
       },
       {  
-         "scanTool":"MySastTool",  
+         "scanTool":"Bug Bounty",  
          "issueName":"Cross Site Scripting2",  
          "issueDescription":"Lorem ipsum...",  
          "fileName":"homepage-jobs.php",  
